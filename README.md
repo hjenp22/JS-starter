@@ -60,4 +60,3 @@ This repository contains comprehensive notes on JavaScript, covering various fun
 - **Console Logging:** Using `console.log()` to print values and debug information to the browser console.
 - **Browser DevTools:** Utilizing browser developer tools for inspecting and debugging JavaScript code, including breakpoints, watches, and network monitoring.
 
-## Conclusion
